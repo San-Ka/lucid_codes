@@ -1,0 +1,16 @@
+{
+	"Employee": "Sandip Kaur",
+	"EmployeeID": 50,
+	"Job_Title": "Senior Survey Quality Analyst",
+	"JoininDate": "16 July 2018",
+	"Position": "Senior Analyst",
+	"Manager": "Talia Lipkind",
+	"Company": "LUCID LLC",
+	"Public": false,
+	"Current_Employee": true,
+	"EmployeeType": "Full Time",
+	"Office_Location": "Gurgaon, INDIA",
+	"Phone": null,
+	"Team": ["Sonali", "Shivam", "Haarish", "Yatendra", "Godwin Das"],
+	"DOB" : "21 Aug 1996"
+}
