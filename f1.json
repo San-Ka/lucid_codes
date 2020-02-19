@@ -2,6 +2,9 @@
     "Name": "Sandip Kaur",
     "Age": 23,
     "Blood Group": "A+",
-    "City": "Amritsar"
+    "City": "Amritsar",
+    "State":"Punjab",
+    "Country": "India",
+    "Zip_Code": 143008
 
 }
